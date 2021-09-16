@@ -1,4 +1,4 @@
-# my-super-cool-awesome-project-app-heroku-node-thing
+# dev-qualifying-exam
 
 ## What is it? 
 This is a demo Node.js app utilizing Express.js & Angular.js. 
@@ -7,9 +7,7 @@ What it does: shows you how to (a) interact with a web page using Angular...info
 
 ## So what? 
 
-- Grab this code & put it on your local dev box
-- Make sure you've got dependencies saved locally
-- modify it as you see fit
-- move it all over to a new REPO that you own
-- connect it to heroku
-- PAYOFF! 
+-to customise the text displayed you can modify the json file
+-if you modify the json file you may need to update angular.html aswell
+-you can add more to the page by adding to the angular.html file if you choose to
+-to improve the overall look of the site it would be adviseable to add a CSS file it before this is used in the public
